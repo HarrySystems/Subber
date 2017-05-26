@@ -1,0 +1,219 @@
+<tbody>
+		  <tr>
+			 <th align="left" bgcolor="#DDDDDD">&nbsp;Language&nbsp;</th>
+			 <th align="left" bgcolor="#DDDDDD">&nbsp;charset&nbsp;</th>
+		  </tr>
+		  <tr>
+			 <td>&nbsp;Afrikaans (af)&nbsp;</td>
+			 <td>&nbsp;iso-8859-1, windows-1252&nbsp;</td>
+		  </tr>
+		  <tr>
+			 <td>&nbsp;Albanian (sq)&nbsp;</td>
+			 <td>&nbsp;iso-8859-1, windows-1252&nbsp;</td>
+		  </tr>
+		  <tr>
+			 <td>&nbsp;Arabic (ar)&nbsp;</td>
+			 <td>&nbsp;iso-8859-6&nbsp;</td>
+		  </tr>
+		  <tr>
+			 <td>&nbsp;Basque (eu)&nbsp;</td>
+			 <td>&nbsp;iso-8859-1, windows-1252&nbsp;</td>
+		  </tr>
+		  <tr>
+			 <td>&nbsp;Bulgarian (bg)&nbsp;</td>
+			 <td>&nbsp;iso-8859-5&nbsp;</td>
+		  </tr>
+		  <tr>
+			 <td>&nbsp;Byelorussian (be)&nbsp;</td>
+			 <td>&nbsp;iso-8859-5&nbsp;</td>
+		  </tr>
+		  <tr>
+			 <td>&nbsp;Catalan (ca)&nbsp;</td>
+			 <td>&nbsp;iso-8859-1, windows-1252&nbsp;</td>
+		  </tr>
+		  <tr>
+			 <td>&nbsp;Croatian (hr)&nbsp;</td>
+			 <td>&nbsp;iso-8859-2,&nbsp;windows-1250</td>
+		  </tr>
+		  <tr>
+			 <td>&nbsp;Czech (cs)&nbsp;</td>
+			 <td>&nbsp;iso-8859-2&nbsp;</td>
+		  </tr>
+		  <tr>
+			 <td>&nbsp;Danish (da)&nbsp;</td>
+			 <td>&nbsp;iso-8859-1, windows-1252&nbsp;</td>
+		  </tr>
+		  <tr>
+			 <td>&nbsp;Dutch (nl)&nbsp;</td>
+			 <td>&nbsp;iso-8859-1, windows-1252&nbsp;</td>
+		  </tr>
+		  <tr>
+			 <td>&nbsp;English (en)&nbsp;</td>
+			 <td>&nbsp;iso-8859-1, windows-1252&nbsp;</td>
+		  </tr>
+		  <tr>
+			 <td>&nbsp;Esperanto (eo)&nbsp;</td>
+			 <td>&nbsp;iso-8859-3*&nbsp;</td>
+		  </tr>
+		  <tr>
+			 <td>&nbsp;Estonian (et)&nbsp;</td>
+			 <td>&nbsp;iso-8859-15&nbsp;</td>
+		  </tr>
+		  <tr>
+			 <td>&nbsp;Faroese (fo)&nbsp;</td>
+			 <td>&nbsp;iso-8859-1, windows-1252&nbsp;</td>
+		  </tr>
+		  <tr>
+			 <td>&nbsp;Finnish (fi)&nbsp;</td>
+			 <td>&nbsp;iso-8859-1, windows-1252&nbsp;</td>
+		  </tr>
+		  <tr>
+			 <td>&nbsp;French (fr)&nbsp;</td>
+			 <td>&nbsp;iso-8859-1, windows-1252&nbsp;</td>
+		  </tr>
+		  <tr>
+			 <td>&nbsp;Galician (gl)&nbsp;</td>
+			 <td>&nbsp;iso-8859-1, windows-1252&nbsp;</td>
+		  </tr>
+		  <tr>
+			 <td>&nbsp;German (de)&nbsp;</td>
+			 <td>&nbsp;iso-8859-1, windows-1252&nbsp;</td>
+		  </tr>
+		  <tr>
+			 <td>&nbsp;Greek (el)&nbsp;</td>
+			 <td>&nbsp;iso-8859-7&nbsp;</td>
+		  </tr>
+		  <tr>
+			 <td>&nbsp;Hebrew (iw)&nbsp;</td>
+			 <td>&nbsp;iso-8859-8&nbsp;</td>
+		  </tr>
+		  <tr>
+			 <td>&nbsp;Hungarian (hu)&nbsp;</td>
+			 <td>&nbsp;iso-8859-2&nbsp;</td>
+		  </tr>
+		  <tr>
+			 <td>&nbsp;Icelandic (is)&nbsp;</td>
+			 <td>&nbsp;iso-8859-1, windows-1252&nbsp;</td>
+		  </tr>
+		  <tr>
+			 <td>&nbsp;Inuit (Eskimo) languages&nbsp;</td>
+			 <td>&nbsp;iso-8859-10*&nbsp;</td>
+		  </tr>
+		  <tr>
+			 <td>&nbsp;Irish (ga)&nbsp;</td>
+			 <td>&nbsp;iso-8859-1, windows-1252&nbsp;</td>
+		  </tr>
+		  <tr>
+			 <td>&nbsp;Italian (it)&nbsp;</td>
+			 <td>&nbsp;iso-8859-1, windows-1252&nbsp;</td>
+		  </tr>
+		  <tr>
+			 <td>&nbsp;Japanese (ja)&nbsp;</td>
+			 <td>&nbsp;shift_jis, iso-2022-jp, euc-jp&nbsp;</td>
+		  </tr>
+		  <tr>
+			 <td>Korean (ko)</td>
+			 <td>euc-kr</td>
+		  </tr>
+		  <tr>
+			 <td>&nbsp;Lapp&nbsp;</td>
+			 <td>&nbsp;iso-8859-10*&nbsp;**</td>
+		  </tr>
+		  <tr>
+			 <td>&nbsp;Latvian (lv)&nbsp;</td>
+			 <td>&nbsp;iso-8859-13, windows-1257&nbsp;</td>
+		  </tr>
+		  <tr>
+			 <td>&nbsp;Lithuanian (lt)&nbsp;</td>
+			 <td>&nbsp;iso-8859-13, windows-1257&nbsp;</td>
+		  </tr>
+		  <tr>
+			 <td>&nbsp;Macedonian (mk)&nbsp;</td>
+			 <td>&nbsp;iso-8859-5,&nbsp;windows-1251</td>
+		  </tr>
+		  <tr>
+			 <td>&nbsp;Maltese (mt)&nbsp;</td>
+			 <td>&nbsp;iso-8859-3*&nbsp;</td>
+		  </tr>
+		  <tr>
+			 <td>&nbsp;Norwegian (no)&nbsp;</td>
+			 <td>&nbsp;iso-8859-1, windows-1252&nbsp;</td>
+		  </tr>
+		  <tr>
+			 <td>&nbsp;Polish (pl)&nbsp;</td>
+			 <td>&nbsp;iso-8859-2&nbsp;</td>
+		  </tr>
+		  <tr>
+			 <td>&nbsp;Portuguese (pt)&nbsp;</td>
+			 <td>&nbsp;iso-8859-1, windows-1252&nbsp;</td>
+		  </tr>
+		  <tr>
+			 <td>&nbsp;Romanian (ro)&nbsp;</td>
+			 <td>&nbsp;iso-8859-2&nbsp;</td>
+		  </tr>
+		  <tr>
+			 <td>&nbsp;Russian (ru)&nbsp;</td>
+			 <td>&nbsp;koi8-r, iso-8859-5&nbsp;</td>
+		  </tr>
+		  <tr>
+			 <td>&nbsp;Scottish (gd)&nbsp;</td>
+			 <td>&nbsp;iso-8859-1, windows-1252&nbsp;</td>
+		  </tr>
+		  <tr>
+			 <td>&nbsp;Serbian (sr)&nbsp;cyrillic</td>
+			 <td>&nbsp;windows-1251, iso-8859-5***&nbsp;</td>
+		  </tr>
+		  <tr>
+			 <td>&nbsp;Serbian (sr)&nbsp;latin</td>
+			 <td>&nbsp;iso-8859-2, windows-1250&nbsp;</td>
+		  </tr>
+		  <tr>
+			 <td>&nbsp;Slovak (sk)&nbsp;</td>
+			 <td>&nbsp;iso-8859-2&nbsp;</td>
+		  </tr>
+		  <tr>
+			 <td>&nbsp;Slovenian (sl)&nbsp;</td>
+			 <td>&nbsp;iso-8859-2,&nbsp;windows-1250</td>
+		  </tr>
+		  <tr>
+			 <td>&nbsp;Spanish (es)&nbsp;</td>
+			 <td>&nbsp;iso-8859-1, windows-1252&nbsp;</td>
+		  </tr>
+		  <tr>
+			 <td>&nbsp;Swedish (sv)&nbsp;</td>
+			 <td>&nbsp;iso-8859-1, windows-1252&nbsp;</td>
+		  </tr>
+		  <tr>
+			 <td>&nbsp;Turkish (tr)&nbsp;</td>
+			 <td>&nbsp;iso-8859-9, windows-1254&nbsp;</td>
+		  </tr>
+		  <tr>
+			 <td>&nbsp;Ukrainian (uk)&nbsp;</td>
+			 <td>&nbsp;iso-8859-5&nbsp; &nbsp;</td>
+		  </tr>
+		</tbody>
+
+		charset=big5 - Chinese Traditional (Big5)
+        charset=euc-kr - Korean (EUC)
+        charset=iso-8859-1 - Western Alphabet
+        charset=iso-8859-2 - Central European Alphabet (ISO)
+        charset=iso-8859-3 - Latin 3 Alphabet (ISO)
+        charset=iso-8859-4 - Baltic Alphabet (ISO)
+        charset=iso-8859-5 - Cyrillic Alphabet (ISO)
+        charset=iso-8859-6 - Arabic Alphabet (ISO)
+        charset=iso-8859-7 - Greek Alphabet (ISO)
+        charset=iso-8859-8 - Hebrew Alphabet (ISO)
+        charset=koi8-r - Cyrillic Alphabet (KOI8-R)
+        charset=shift-jis - Japanese (Shift-JIS)
+        charset=x-euc - Japanese (EUC)
+        charset=utf-8 - Universal Alphabet (UTF-8)
+        charset=windows-1250 - Central European Alphabet (Windows)
+        charset=windows-1251 - Cyrillic Alphabet (Windows)
+        charset=windows-1252 - Western Alphabet (Windows)
+        charset=windows-1253 - Greek Alphabet (Windows)
+        charset=windows-1254 - Turkish Alphabet
+        charset=windows-1255 - Hebrew Alphabet (Windows)
+        charset=windows-1256 - Arabic Alphabet (Windows)
+        charset=windows-1257 - Baltic Alphabet (Windows)
+        charset=windows-1258 - Vietnamese Alphabet (Windows)
+        charset=windows-874 - Thai (Windows)

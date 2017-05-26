@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta http-equiv="content-type" content="text/html; charset=utf-8">
+<link href="css/jquery-ui.min.css" rel="stylesheet">
+<link href="css/font-awesome.min.css" rel="stylesheet">
+<link href="css/subber.css" rel="stylesheet">
+<script src="js/jquery-2.1.3.min.js"></script>
+<script src="js/jquery-ui.min.js"></script>
+<script src="js/jquery.xmlrpc.min.js"></script>
+<script src="js/subber.js"></script>
+<script src="js/google-analytics-bundle.js"></script>
+</head>
+<body>
+<article>
+    <div id="dragger"></div>
+    <div id="container" class="border">
+        <div id="subtitle"></div>
+    </div>
+
+    <a href="#" id="minimize" class="button"><i class="fa fa-minus"></i></a>
+    <a href="#" id="close" class="button"><i class="fa fa-close"></i></a>
+    <div id="info"></div>
+    <div id="controls" class="active">
+
+        <input id="timer" type="text" class="hide" />
+        <div id="seekHolder">
+            <div id="seeker" class="hide"></div>
+        </div>
+
+        <div id="fontSizer" class="hide"></div>
+
+        <a href="#" id="play" class="button hide"><i class="fa fa-play"></i></a>
+        <a href="#" id="backward" class="button hide"><i class="fa fa-backward"></i></a>
+        <a href="#" id="forward" class="button hide"><i class="fa fa-forward"></i></a>
+        <a href="#" id="refresh" class="button hide"><i class="fa fa-list"></i></a>
+        <a href="#" id="lights" class="button"><i class="fa fa-lightbulb-o"></i></a>
+
+        <select id="movie-year" class="show">
+            <option>All Years</option>
+        </select>
+        <select id="movie-language" class="show">
+            <option>All Languages</option>
+        </select>
+
+        <input id="searchMovie" class="show" type="text" name="searchMovie" placeholder="Search for movie..." />
+        <a href="#" id="searchButton" class="button show"><i class="fa fa-chevron-circle-right"></i></a>
+    </div>
+    <div id="spinner" class="button"><i class="fa fa-spinner fa-spin"></i></div>
+    <div id="results"></div>
+    <div id="donate">
+        <a href="http://www.subber.org/" target="_blank"><img src="logo.jpg" alt="Subber" id="logo"></a><br/>
+        subtitles provided by: <a href="http://www.opensubtitles.org/" target="_blank">opensubtitles.org</a><br/>
+        v2.7 | <a href="mailto:subber@subber.org" target="_blank">subber@subber.org</a> |
+        <a href="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=75W6M44MFRFKC" target="_blank">donations</a>
+    </div>
+</article>
+</body>
+</html>

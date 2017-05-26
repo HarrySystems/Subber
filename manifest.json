@@ -1,0 +1,23 @@
+{
+"update_url": "https://clients2.google.com/service/update2/crx",
+
+    "name": "Subber - Subtitle Viewer",
+    "description": "Search and show subtitles on movies",
+    "short_name": "Subber",
+    "version": "2.7",
+    "manifest_version": 2,
+    "app": {
+        "background": {
+            "scripts": ["subber.js"]
+        }
+    },
+    "icons": { "16": "subber16.png", "48": "subber48.png", "64": "subber64.png", "128": "subber128.png" },
+    "permissions": [
+        "contextMenus",
+        "alwaysOnTopWindows",
+        "fileSystem",
+        "https://www.google-analytics.com/",
+        "storage"
+    ],
+    "offline_enabled": true
+}
